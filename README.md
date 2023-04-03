@@ -1,12 +1,13 @@
-# Nombre final del curso
+# Azure para desarrollo y programación
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Azure para desarrollo y programación]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Descubre Azure como nube para el desarrollo de sofisticadas soluciones de software y aplicaciones nativas para la nube. Durante este contenido expandirás tus conocimientos acerca de las aplicaciones nativas de la nube en Microsoft Azure, aprenderás a configurar el entorno para la creación de estas aplicaciones con Azure Functions y Azure Kubernetes Service y verás cómo se realizaría la implementación de integración y entrega continuas. Desde una perspectiva práctica, interiorizarás los conocimientos para empezar a crear tus propias aplicaciones nativas para la nube hoy mismo.
 
 ## Instrucciones
 
