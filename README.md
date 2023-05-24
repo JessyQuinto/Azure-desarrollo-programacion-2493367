@@ -1,8 +1,8 @@
 # Azure para desarrollo y programación
 
-Este es el repositorio del curso de LinkedIn Learning `[Azure para desarrollo y programación]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Azure para desarrollo y programación`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![Nombre completo del curso][lil-thumbnail-url]
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
@@ -33,4 +33,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: [https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg](https://media.licdn.com/dms/image/D4E0DAQEH4dSWkzECLQ/learning-public-crop_675_1200/0/1684485127661?e=2147483647&v=beta&t=MB-b-ZOlWkVx-49i5VvCBrsPBWh6GMDUHeeQMGoRtjY)
